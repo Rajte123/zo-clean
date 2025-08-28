@@ -1,25 +1,25 @@
 Zo Clean 🧹✨
 
-Professional Home Cleaning Services
+Professional Home Cleaning Startup in Mizoram
 
-🚀 About
+🚀 About Us
 
-Zo Clean offers trusted and affordable home cleaning services. We aim to provide a spotless and healthy living environment for families, with 500+ happy clients already served.
+Zo Clean is a fast-growing home cleaning startup built to make homes spotless, healthy, and stress-free.
+Trusted by 500+ families, we bring professional cleaning services at affordable prices with the convenience of online booking.
 
-🌟 Features
+🌟 Our Mission
 
-Easy-to-navigate website
+To simplify home cleaning in Mizoram by combining technology + professional cleaners, ensuring quality, trust, and comfort for every household.
 
-Mobile-friendly responsive design
-
-Service booking options
-
-SEO optimized for local search
-
-Clean, modern UI
-
-🛠️ Tech Stack
+🛠️ Tech Behind Zo Clean
 
 Frontend: HTML5, CSS3, Bootstrap
 
-Deployment: Netlify / GitHub Pages
+Hosting: Netlify / GitHub Pages
+
+Future Plans: Online booking system, WhatsApp chatbot, secure payments
+
+
+🌍 Live Website
+
+🔗 Visit Zo Clean Online
